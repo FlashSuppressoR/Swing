@@ -14,7 +14,7 @@ public class TestFrame {
 
         JButton button1 = new JButton("Shock me!");
         JButton button2 = new JButton("bliss");
-        JButton button3 = new JButton("Do it!");
+        JButton button3 = new JButton("DO DAMAGE!");
         panel.add(button1);
         panel.add(button2);
         panel.add(button3);
